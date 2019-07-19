@@ -4,6 +4,8 @@
 
 A YouTube-esque clone I wrote to fully experience the job of a Full Stack developer from start to finishing a product.
 
+This project took 10 days from start to finish.
+
 ![example gif](example.gif)
 
 
@@ -46,11 +48,10 @@ This project runs on AWS/DigitalOcean with S3 and EC2, and the DB on MongoDB Atl
 
 The two servers run in docker containers. You can run multiple uploaders or content servers on the same box with different port maps.
 
+## Hey, you!
+
+I'm a college student spends all my free time writing React + Node projects for fun and have experience working on software in a team. If you offer or know anybody offering work or apprenticeship opportunities, please email me with the address listed on my profile.
 
 ## Acknowledgement
 
 Fair use clip of Tom Scott's [Blindfold Balancing in the Spinning Space Chair](https://www.youtube.com/watch?v=jhQa9xLk5qk) used for example content
-
-## Hey, you!
-
-I'm a college student spends all my free time writing React + Node projects for fun and have experience working on software in a team. If you offer or know anybody offering work or apprenticeship opportunities, please email me with the address listed on my profile.
