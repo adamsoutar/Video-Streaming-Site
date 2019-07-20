@@ -50,7 +50,7 @@ The two servers run in docker containers. You can run multiple uploaders or cont
 
 ## Hey, you!
 
-I'm a college student spends all my free time writing React + Node projects for fun and have experience working on software in a team. If you offer or know anybody offering work or apprenticeship opportunities, please email me with the address listed on my profile.
+I'm a college student who spends all my free time writing React + Node projects for fun and have experience working on software in a team. If you offer or know anybody offering work or apprenticeship opportunities, please email me with the address listed on my profile.
 
 ## Acknowledgement
 
